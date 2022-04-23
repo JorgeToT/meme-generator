@@ -60,8 +60,9 @@ header img {
 .meme {
   display: flex;
   justify-content: center;
+  padding: 20px
 }
 
-.meme--image {
-  margin: 20px 0;
+.meme--image{
+  max-width: 100%;
 }
