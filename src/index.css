@@ -55,5 +55,13 @@ header img {
   cursor: pointer;
   font-weight: 700;
   font-size: 16px;
-  letter-spacing: -.05em;
+  letter-spacing: -0.05em;
+}
+.meme {
+  display: flex;
+  justify-content: center;
+}
+
+.meme--image {
+  margin: 20px 0;
 }
